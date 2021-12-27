@@ -1,0 +1,1 @@
+The counting problem is coming from the fact that some tweets that mention the word 'Trump' are being ReTweeted. This retweeting is causing the program to cuount a single tweet multiple times.
